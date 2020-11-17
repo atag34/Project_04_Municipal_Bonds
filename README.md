@@ -7,5 +7,6 @@ I will be working with Municipal Bond data collected from the [EMMA](https://emm
 The goal of this project is to see if machine learning can help us to both find bonds that stand out from the perspective of impact investors and more specific details about what the use of proceeds will be used for.
 
 `Data_Collection_Final` contains the code for collecting the offering documents in pdf from and saving them to a cleaner more usable pandas dataframe.
+
 `Project_Walkthrough_Final` contains some EDA and the process of trying various topic modeling.
 
